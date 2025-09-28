@@ -1,10 +1,10 @@
 # Single-Page-CV
 > This a roadmap.sh project made for developing my Front-End skills and showcasing my work. Curriculum Vitae; Portfolio
 
-#Contact
+# Contact
 - matheusmiyahira.dev@gmail.com
 
-#SiteURL
+# SiteURL
 - https://roadmap.sh/projects/single-page-cv
 
 
