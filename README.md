@@ -14,6 +14,9 @@ Single Page Curriculum Vitae
  <br>
 
 # Project List
+
+This contains the full description of the tasks requested.
+
 [Single-Page-CV](https://roadmap.sh/projects/single-page-cv)
 
 # Contact
