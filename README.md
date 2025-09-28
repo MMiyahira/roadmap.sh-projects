@@ -6,7 +6,7 @@
 Click on the images to be redirected to the project.
 
 <a href='Front-End Projects/Single-Page-CV'>
-  <img width="30%" src="assets/Single-Page-CV.png" alt="Single Page CV">
+  <img width="50%" src="assets/Single-Page-CV.png" alt="Single Page CV">
 </a>
 
 Single Page Curriculum Vitae
