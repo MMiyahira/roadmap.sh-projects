@@ -22,7 +22,5 @@ This contains the full description of the tasks requested.
 # Contact
 - matheusmiyahira.dev@gmail.com
 
-# SiteURL
-- https://roadmap.sh/projects/single-page-cv
 
 
