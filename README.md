@@ -6,7 +6,7 @@
 
 # Project Developed
 <a href='/Front-End Projects/Single-Page-CV'>
-    <img width="50%" src="assets/Single-Page-CV.png" alt="Single-Page-CV>
+    <img width="50%" src="assets/Single-Page-CV.png" alt="Single Page CV/>
 </a>
 
 # Contact
