@@ -16,7 +16,6 @@
     <!--Icon and Title-->
     <title>Basic HTML Website | Portfolio</title>
     <link rel="icon" type="image/png" href="assets/icon.png">
-
 </head>
 
 <body>
@@ -47,40 +46,30 @@
     </header>
     <!--Main-->
     <main>
-        <!--Projects-->
-        <h2>Projects</h2>
-        <ul>
-            <li> HTML Only Portfolio </li>
-            <li> Calculator </li>
-            <li> Quiz App </li>
-            <li> Countdown Timer </li>
-            <li> Product Upcoming Page </li>
-        </ul>
+        <!--Contact-->
+        <h1>Contact</h1>
+        <form action="index.html" method="post">
+            <p><label for="firstName">First Name: </label>
+                <input type="text" name="firstName" placeholder="John" required>
+            </p>
+            <p>
+                <label for="lastName">Last Name: </label>
+                <input type="text" name="lastName" placeholder="Doe" required>
+            </p>
+            <p>
+                <label for="email">Email: </label>
+                <input type="email" id="email" name="email" placeholder="mail@.com" required>
+            </p>
+            <p><label for="message">Message: </label>
+                <input type="text" id="message" name="message" placeholder="Feedback" required>
+            </p>
+            <input type="submit" value="Submit">
 
-        <!--Work experience-->
-        <h2>Work Experience</h2>
-        <a href="https://roadmap.sh"><i>roadmap.sh</i></a>
-        <p>Solved all the frontend projects</p>
-        <p><a href="https://github.com/MMiyahira"> Visit my profile </a></p>
 
-        <!--Education-->
-        <ul>
-            <li>Graduated with 3.76 out of 4 CGPA</li>
-            <li>Won Acme Hackathon</li>
-            <li>Organized 30 sessions</li>
-        </ul>
-        Courses I took:
-        <ul>
-            <li>Object Oriented Programming</li>
-            <li>Data Structures and Algorithms</li>
-            <li>Web Engineering</li>
-            <li>Artificial Intelligence</li>
-            <li>Discrete Mathematics</li>
-            <li>Computer Graphics</li>
-            <li>Database Management Systems</li>
-            <li>Distributed Database System</li>
-            <li>Discreet Mathematics</li>
-        </ul>
+        </form>
+
+
+
     </main>
     <hr>
     <footer>
