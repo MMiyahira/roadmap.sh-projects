@@ -11,13 +11,20 @@ Click on the images to be redirected to the project.
 
 Single Page Curriculum Vitae
 
- <br>
+   <br>
+   
+<a href='Front-End Projects/Basic-HTML-Website'>
+  <img width="50%" src="assets/Basic-HTML-Website.png" alt="Basic HTML Website">
+</a>
+
+Basic HTML Website
 
 # Project List
 
 This contains the full description of the tasks requested.
 
 [Single-Page-CV](https://roadmap.sh/projects/single-page-cv)
+[Basic-HTML-Website](https://roadmap.sh/projects/basic-html-website)
 
 # Contact
 - matheusmiyahira.dev@gmail.com
