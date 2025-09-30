@@ -5,7 +5,7 @@
 
 Click on the images to be redirected to the project.
 
-<a href='Front-End Projects/Single-Page-CV'>
+<a href='Front-End Projects/01-Single-Page-CV'>
   <img width="50%" src="assets/Single-Page-CV.png" alt="Single Page CV">
 </a>
 
@@ -13,7 +13,7 @@ Single Page Curriculum Vitae
 
    <br>
    
-<a href='Front-End Projects/Basic-HTML-Website'>
+<a href='Front-End Projects/02-Basic-HTML-Website'>
   <img width="50%" src="assets/Basic-HTML-Website.png" alt="Basic HTML Website">
 </a>
 
